@@ -1,0 +1,191 @@
+
+
+img.main {
+	height: 220px;
+    margin: 15px;
+    padding: 5px;
+    /*border: 4px double white;*/
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+}
+text {
+  font-family: sans-serif;
+  font-size: 12px;
+}
+
+
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    margin: auto;
+    position: relative;
+    width: 90%;
+    height: 500px;
+    margin-left: 70px;
+}
+
+a,
+a:link,
+a:visited {
+	color:#074b80;
+	}
+
+a:hover,
+a:active,
+a:focus {
+	color:#801007;
+	}
+
+
+text {
+    font: 10px sans-serif;
+}
+
+.xAaxis path {
+    display: none;
+}
+
+.xAxis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+    margin-top:20px;
+}
+
+.xAxis22 path,
+.xAxis22 line,
+.xAxis2 path,
+.xAxis2 line,
+.xAxis path,
+.xAxis line {
+    display: none;
+}
+
+.xAxis text {
+    font-family: sans-serif;
+    font-size: 11px;
+}
+
+.yAxis1 path {
+    display: none;
+}
+
+.yAxis1 line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+    margin-top:20px;
+}
+
+.yAxis1 path,
+.yAxis1 line {
+    fill: none;
+    stroke: white;
+    opacity: 0.25;
+}
+
+.yAxis1 text {
+    font-family: sans-serif;
+    font-size: 11px;
+}
+
+.yAxis1 path {
+    display: none;
+}
+
+.yAxis2 line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+    margin-top:20px;
+}
+
+.yAxis32 path,
+.yAxis32 line,
+.yAxis31 path,
+.yAxis31 line,
+.yAxis2 path,
+.yAxis2 line {
+    fill: none;
+    stroke: white;
+    opacity: 0.25;
+}
+
+.yAxis2 text {
+    font-family: sans-serif;
+    font-size: 11px;
+}
+
+.group-label {
+    font-weight: bold;
+    text-anchor: end;
+}
+
+.group-sum {
+    text-anchor: end;
+}
+
+div.tooltip {
+    position: absolute;
+    text-align: left;
+    padding: 3px;
+    font: 11px sans-serif;
+    background: #eee;
+    pointer-events: none;
+}
+
+img.geo {
+    position: absolute;
+}
+
+form {
+    padding-left: 70px;
+    position: absolute;
+    top: 0px;
+    left:80px;
+}
+.copyright {
+    padding-top: 10px;
+    padding-left: 170px;
+    padding-bottom: 5px;
+    text-align: left;
+    font-size:11px;
+    float: left;
+}
+
+.anons {
+    position: absolute;
+    left:670px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    text-align: right;
+    font-size:11px;
+    float: right;
+}
+div.nav {
+    position: absolute;
+    width: 70px;
+    left: -65px;
+    top: 0px;
+    margin-bottom: 5px;
+    margin-top:10px;
+    font-family: sans-serif;
+    font-size: 11px;
+}
+
+img.nav {
+    width: 75px;
+    margin-top: 5px;
+    padding: 3px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+}
+
+h1 {
+    font-size: 20px;
+    margin-bottom: 5px;
+    margin-top:10px;
+}
